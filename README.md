@@ -1,4 +1,4 @@
-Olá, sou o Victor!!☀
+Olá, sou o Victor!!☕
 - Estou interessado em conhecer pessoas, aprender e expor meus projetos📚
 - Espero colaborar com a comunidade dev🥰
 
