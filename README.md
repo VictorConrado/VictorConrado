@@ -1,18 +1,17 @@
 # 👋 Seja bem‑vindo!
 
-Eu sou o **Victor Conrado**, desenvolvedor **Full Stack** com foco em **C#/.NET**.
-Sou **Engenheiro de Software**, apaixonado por tecnologia, arquitetura e criação de soluções inovadoras. Trabalho diariamente com **sustentação**, **integrações**, **sistemas legados** e **desenvolvimento Web**, sempre buscando evoluir meus projetos e minhas entregas.
+Eu sou o **Victor Conrado**, desenvolvedor **Back-End** com foco em **C#/.NET** com experiência prática em sustentação e evolução de sistemas corporativos em ambiente de produção.
+Atuo com análise e resolução de incidentes, integração de sistemas e manutenção de aplicações legadas, sempre com foco em estabilidade e continuidade operacional.
+Sou **Engenheiro de Software**, apaixonado por tecnologia, arquitetura e criação de soluções inovadoras.
 
 ---
 
 ## 🚀 Tecnologias
-
 ### 🏷️ Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -20,18 +19,19 @@ Sou **Engenheiro de Software**, apaixonado por tecnologia, arquitetura e criaç�
 
 * **C#**
 * **.NET / ASP.NET**
-* **Spring Boot (Java)**
 * **SQL** (SQL Server, MySQL, Oracle)
 * **React**
 * **Git & GitHub**
+* **APIs REST**
 
 ---
-
+## 📌 Projetos em destaque:
+- [FlowDesk](https://github.com/VictorConrado/FlowDesk) → Sistema de gerenciamento de tickets com foco em cenários corporativos
+- [SmartSchool](https://github.com/VictorConrado/SmartSchool) → Sistema completo para gestão escolar com API e regras de negócio
+---
 ## 🔗 Onde me encontrar
-
-**LinkedIn:** linkedin.com/in/victor-conrado-0155ab255
+**LinkedIn:** <https://www.linkedin.com/in/victor-conrado-0155ab255>
 
 ---
-
 
 ✨ Obrigado por visitar meu perfil!
