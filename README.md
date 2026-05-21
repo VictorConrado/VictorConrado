@@ -28,7 +28,7 @@ Atuo com análise e resolução de incidentes, integração de sistemas e manute
 - [SmartSchool](https://github.com/VictorConrado/SmartSchool) → Sistema completo para gestão escolar com API e regras de negócio
 ---
 ## 🔗 Onde me encontrar
-**LinkedIn:** <https://www.linkedin.com/in/victor-conrado-0155ab255>
+**LinkedIn:** <https://www.linkedin.com/in/victorconrado>
 
 ---
 
