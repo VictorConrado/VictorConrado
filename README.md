@@ -26,6 +26,7 @@ Atuo com análise e resolução de incidentes, integração de sistemas e manute
 ## 📌 Projetos em destaque:
 - [FlowDesk](https://github.com/VictorConrado/FlowDesk) → Sistema de gerenciamento de tickets com foco em cenários corporativos
 - [SmartSchool](https://github.com/VictorConrado/SmartSchool) → Sistema completo para gestão escolar com API e regras de negócio
+- [MasiHouse](https://github.com/VictorConrado/MasiHouseLandingPage) → Landing page moderna e responsiva desenvolvida com foco em performance, conversão e identidade esportiva.
 ---
 ## 🔗 Onde me encontrar
 **LinkedIn:** <https://www.linkedin.com/in/victorconrado>
