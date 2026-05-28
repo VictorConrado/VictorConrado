@@ -1,4 +1,4 @@
-# 👋 Ola, eu sou o **Victor Conrado**
+# Prazer ter você aqui, sou o **Victor Conrado**!
 
 Desenvolvedor **Back-End** com foco em **C#/.NET**, com experiência prática em sustentação e evolução de sistemas corporativos em ambiente de produção.
 Atuo com análise e resolução de incidentes, integração de sistemas e manutenção de aplicações legadas, sempre com foco em estabilidade e continuidade operacional.
